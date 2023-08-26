@@ -25,11 +25,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![QR Code Component - Mobile](https://github.com/shivayan-bora/qr-code-component/assets/23340497/f8eabae3-4593-4a13-9b93-3a49484b27a0)
 
-### Links
-
-- Solution URL: [Github](https://github.com/shivayan-bora/qr-code-component)
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
-
 ## My process
 
 ### Built with
