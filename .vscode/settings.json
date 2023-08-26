@@ -1,0 +1,5 @@
+{
+    "gitlens.ai.experimental.openai.url": "",
+    "semantic-kernel.completionService": "HuggingFace",
+    "semantic-kernel.embeddingService": "OpenAI"
+}
